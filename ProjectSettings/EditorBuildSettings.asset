@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9143a0cc6874d7f4f91519f62acd6218
+  - enabled: 1
+    path: Assets/Scenes/Conquistas.unity
+    guid: 31b496fe658242c4cab77d358e4efb9e
+  - enabled: 1
+    path: Assets/Scenes/Aldeia.unity
+    guid: e5b52e28fcc74ce4884fdaec73573b60
+  - enabled: 1
+    path: Assets/Scenes/HorasDepois.unity
+    guid: 58a8221959ae56e46a99f78efc5c1181
+  - enabled: 1
+    path: Assets/Scenes/CenaTio.unity
+    guid: 48badc161b34eac4dbb11e9dc9acf683
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: adcd9b9f2c46fa043886f3d4716fd87a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: c7fcc866e5b73f844b9eb57b878c744f
+  - enabled: 1
+    path: Assets/Scenes/Tronco.unity
+    guid: c1aa98fab29b8b946ae169b5eebfd774
+  - enabled: 1
+    path: Assets/Scenes/PosTronco.unity
+    guid: 733288e825f3e354abb88ebeedfff782
+  - enabled: 1
+    path: Assets/Scenes/SuperiorTutorial.unity
+    guid: 8402d86b49cb95f48a0105b716c6776e
+  - enabled: 1
+    path: Assets/Scenes/ExtremaDireita.unity
+    guid: aef045d1e61cd2e4dbe2f53e81a2e625
+  - enabled: 1
+    path: Assets/Scenes/AldeiaDestruida.unity
+    guid: e870077ebe9535c4eab98f2828bb0bed
+  - enabled: 1
+    path: Assets/Scenes/Clareira.unity
+    guid: de6e4d093c13dcf4f8a8adac2974cf3a
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: a5087627e26eb2a4fa9d759bc128acaa
+  m_configObjects: {}
